@@ -1,1 +1,1 @@
-end to end complete ml projects by aabith
+end to end complete ml projects
